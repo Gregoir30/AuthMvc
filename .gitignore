@@ -1,0 +1,39 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET
+wwwroot/lib/
+wwwroot/css/
+wwwroot/js/
+wwwroot/lib/bootstrap/
+wwwroot/lib/jquery/
+wwwroot/lib/jquery-validation/
+wwwroot/lib/jquery-validation-unobtrusive/
+
+# Others
+*.log
+*.vsix
+*.nupkg
+*.snk
+*.pdb
+*.cache
+*.dbmdl
+*.bak
+*.backup
+*.mdf
+*.ldf
+*.ndf
+*.sql
+*.sqlite
+*.sqlite3
+*.db
+*.db-shm
+*.db-wal
+*.DS_Store
+*.vscode/
